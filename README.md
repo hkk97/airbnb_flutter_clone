@@ -1,4 +1,6 @@
+<p> 
 <img width="15" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png"> [Klaus Wong](https://www.linkedin.com/in/chi-hung-wong-b9bb31133/)
+</p>
 
 # airbandb
 
