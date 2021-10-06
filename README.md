@@ -1,5 +1,5 @@
-  <a href="www.linkedin.com/in/ chi-hung-wong-b9bb31133" target="_blank">
-    <img alt="Linkedin: chi-hung-wong" src="www.linkedin.com/in/ chi-hung-wong-b9bb31133" />
+  <a href="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" target="_blank">
+    <img alt="Linkedin: chi-hung-wong" src="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" />
   </a>
 
 # airbandb
