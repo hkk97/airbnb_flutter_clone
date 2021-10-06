@@ -1,5 +1,5 @@
-  <a href="https://twitter.com/ulusoyapps" target="_blank">
-    <img alt="Twitter: ulusoyapps" src="www.linkedin.com/in/ chi-hung-wong-b9bb31133" />
+  <a href="www.linkedin.com/in/ chi-hung-wong-b9bb31133" target="_blank">
+    <img alt="Linkedin: chi-hung-wong" src="www.linkedin.com/in/ chi-hung-wong-b9bb31133" />
   </a>
 
 # airbandb
