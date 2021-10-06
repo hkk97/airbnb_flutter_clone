@@ -1,4 +1,4 @@
-[<img alt="alt_text" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chi-hung-wong-b9bb31133/)
+[<img alt="alt_text" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chi-hung-wong-b9bb31133/)
 
 # airbandb
 
