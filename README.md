@@ -1,28 +1,4 @@
-  <a href="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png" target="_blank">
-    <img alt="Linkedin: chi-hung-wong" src="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" />
-  </a>
-  <img width="25" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png">
-  
-  .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.button2 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #008CBA;
-}
-
-<button class="button button2">Blue</button>
+<img width="25" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png"> [Klaus Wong](https://www.linkedin.com/in/chi-hung-wong-b9bb31133/)
 
 # airbandb
 
