@@ -6,7 +6,7 @@ A Flutter UI Project using flutter to create the Mobile UI of Airbnb, all the im
 # Android Studio Demo
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" height="500" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/1.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/2.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/3.png">|
+|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/1.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/2.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/3.png">|
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/4.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/5.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/6.png">|
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/7.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/8.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/9.png">|
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/10.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/11.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/12.png">|
@@ -14,3 +14,7 @@ A Flutter UI Project using flutter to create the Mobile UI of Airbnb, all the im
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/16.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/17.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/18.png">|
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/19.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/20.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/21.png">|
 |<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/21.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/22.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/23.png">|
+|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/24.png"> | <img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/25.png">|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/26.png">|
+|<img width="1604" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/android/27.png"> | ||
+
+
