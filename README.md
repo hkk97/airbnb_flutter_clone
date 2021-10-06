@@ -1,7 +1,7 @@
   <a href="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png" target="_blank">
     <img alt="Linkedin: chi-hung-wong" src="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" />
   </a>
-  <img width="50" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png">
+  <img width="25" src="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png">
   
 
 # airbandb
