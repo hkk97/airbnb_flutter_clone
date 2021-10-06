@@ -1,4 +1,4 @@
-  <a href="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" target="_blank">
+  <a href="https://github.com/Klaus-Wong/airbnb_flutter_clone/blob/master/demo/linkedIn_icon.png" target="_blank">
     <img alt="Linkedin: chi-hung-wong" src="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/" />
   </a>
 
